@@ -1,0 +1,40 @@
+
+
+h1{
+
+text-align: center;
+
+}
+
+input{
+
+padding: 80px;
+}
+
+
+.consulta{
+
+  display:block;
+  padding: 80px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.botones{
+  display:block;
+  padding: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pantalla{
+width: 1000px;
+height: 100px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+
+
+}
